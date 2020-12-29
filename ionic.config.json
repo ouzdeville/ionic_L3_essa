@@ -1,0 +1,7 @@
+{
+  "name": "duckcoin",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
